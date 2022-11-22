@@ -1,0 +1,160 @@
+
+PUZZLE 1: 
+0 0 3 0 2 0 6 0 0 
+9 0 0 3 0 5 0 0 1 
+0 0 1 8 0 6 4 0 0 
+0 0 8 1 0 2 9 0 0 
+7 0 0 0 0 0 0 0 8 
+0 0 6 7 0 8 2 0 0 
+0 0 2 6 0 9 5 0 0 
+8 0 0 2 0 3 0 0 9 
+0 0 5 0 1 0 3 0 0 
+
+Solved by BT: 1605
+Solved by BT with AC3: 552
+Solved by MRV + LCV: 50
+Solved with FC in 129
+
+PUZZLE 2: 
+0 0 0 0 4 0 8 7 0 
+0 0 1 0 0 0 3 4 9 
+7 4 3 8 9 0 0 5 6 
+0 0 0 9 1 0 0 2 7 
+4 0 0 0 0 7 9 1 0 
+0 0 7 0 0 4 0 0 3 
+3 7 0 0 6 0 0 9 0 
+1 2 0 5 3 8 7 0 0 
+0 6 5 0 0 0 0 3 0 
+
+Solved by BT: 1720
+Solved by BT with AC3: 553
+Solved by MRV + LCV: 175
+Solved with FC in 133
+
+PUZZLE 3: 
+7 6 4 0 0 0 2 0 1 
+0 0 0 0 6 0 7 0 3 
+0 0 0 0 0 0 0 5 0 
+0 1 0 0 0 0 0 0 0 
+0 0 0 9 1 0 5 8 0 
+6 0 3 2 0 0 0 7 9 
+0 0 1 3 4 0 9 6 0 
+0 0 0 7 2 0 0 1 0 
+2 5 6 0 0 0 0 0 0 
+
+Solved by BT: 15162
+Solved by BT with AC3: 5488
+Solved by MRV + LCV: 154
+Solved with FC in 157
+
+PUZZLE 4: 
+0 0 0 2 6 0 7 0 1 
+6 8 0 0 7 0 0 9 0 
+1 9 0 0 0 4 5 0 0 
+8 2 0 1 0 0 0 4 0 
+0 0 4 6 0 2 9 0 0 
+0 5 0 0 0 3 0 2 8 
+0 0 9 3 0 0 0 7 4 
+0 4 0 0 5 0 0 3 6 
+7 0 3 0 1 8 0 0 0 
+
+Solved by BT: 307
+Solved by BT with AC3: 81
+Solved by MRV + LCV: 46
+Solved with FC in 119
+
+PUZZLE 5: 
+1 0 0 4 8 9 0 0 6 
+7 3 0 0 0 0 0 4 0 
+0 0 0 0 0 1 2 9 5 
+0 0 7 1 2 0 6 0 0 
+5 0 0 7 0 3 0 0 8 
+0 0 6 0 9 5 7 0 0 
+9 1 4 6 0 0 0 0 0 
+0 2 0 0 0 0 0 3 7 
+8 0 0 5 1 2 0 0 4 
+
+Solved by BT: 426
+Solved by BT with AC3: 108
+Solved by MRV + LCV: 45
+Solved with FC in 142
+
+PUZZLE 6: 
+0 8 0 0 2 0 0 0 0 
+0 0 0 0 0 0 6 8 7 
+0 7 0 6 0 3 2 5 0 
+6 0 0 1 0 0 0 0 9 
+0 4 0 5 9 8 1 6 0 
+0 9 0 0 0 4 0 3 0 
+9 6 0 0 7 0 0 0 0 
+4 0 0 0 0 0 8 0 1 
+8 0 0 3 0 0 0 0 0 
+
+Solved by BT: 7071
+Solved by BT with AC3: 2237
+Solved by MRV + LCV: 345
+Solved with FC in 129
+
+PUZZLE 7: 
+0 0 9 0 0 2 0 8 5 
+0 6 0 0 0 8 0 3 0 
+0 0 0 7 6 0 0 0 0 
+0 0 4 6 8 3 1 9 0 
+0 8 0 9 1 0 0 0 0 
+0 0 3 4 0 7 0 0 0 
+0 0 0 8 0 0 0 0 6 
+8 0 0 0 5 0 4 0 3 
+7 0 0 0 4 9 0 0 0 
+
+Solved by BT: 1440
+Solved by BT with AC3: 504
+Solved by MRV + LCV: 1952
+Solved with FC in 124
+
+PUZZLE 8: 
+0 0 9 0 3 0 0 0 5 
+3 0 0 0 7 0 0 0 0 
+2 8 0 0 4 0 0 0 0 
+0 0 3 2 8 4 1 0 9 
+0 0 8 0 0 0 7 0 0 
+0 4 0 1 5 0 0 2 0 
+0 0 5 0 0 3 4 9 0 
+0 9 0 4 0 0 0 8 0 
+7 0 0 0 0 0 5 0 6 
+
+Solved by BT: 15730
+Solved by BT with AC3: 5155
+Solved by MRV + LCV: 595
+Solved with FC in 133
+
+PUZZLE 9: 
+0 0 0 0 0 3 4 0 0 
+0 0 0 6 8 7 0 0 5 
+0 0 1 2 0 4 0 0 0 
+0 3 7 1 6 0 0 0 0 
+5 0 6 0 0 9 1 3 0 
+9 0 0 5 0 0 7 0 0 
+3 0 0 8 9 0 0 5 6 
+0 5 0 0 0 0 3 0 0 
+0 0 0 0 4 0 0 0 1 
+
+Solved by BT: 20275
+Solved by BT with AC3: 6628
+Solved by MRV + LCV: 294
+Solved with FC in 144
+
+PUZZLE 10: 
+0 0 4 0 0 0 0 1 5 
+6 1 0 0 4 9 2 7 0 
+0 0 7 8 0 0 0 9 0 
+8 0 0 0 5 7 0 6 0 
+0 0 0 0 9 6 0 8 2 
+0 0 0 2 0 0 0 0 0 
+4 0 0 0 0 3 8 0 1 
+0 7 0 4 0 0 0 2 0 
+0 0 1 0 0 8 0 0 3 
+
+Solved by BT: 2210
+Solved by BT with AC3: 688
+Solved by MRV + LCV: 53
+Solved with FC in 128
