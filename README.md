@@ -1,0 +1,2 @@
+Introduction
+ the goal of this project is to solve different kinds of sudoku puzzles with various algorithms and heuristics and to compare the efficiency of the algorithms on each of the sudoku types. The sudoku types in this project include basic 9x9 grid puzzles, three overlapping 9x9 puzzles, killer sudokus with cages indicating the sum of the values. Four different kinds of algorithms were implemented to solve the sudoku puzzles: backtrack, backtrack with AC-3, minimum-remaining-values with least constraining values, and forward checking.
