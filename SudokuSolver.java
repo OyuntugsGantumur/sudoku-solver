@@ -129,7 +129,7 @@ public abstract class SudokuSolver {
     }
 
     //Prints the board
-    public void printBoard() {
+    public String printBoard() {
         String str = "";
 
         for(int i = 0; i < SIZE; i++) {
@@ -141,6 +141,7 @@ public abstract class SudokuSolver {
             str += "\n";
         }
 
-        System.out.println(str);
+        // System.out.println(str);
+        return str;
     }
 }

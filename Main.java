@@ -18,6 +18,7 @@ public class Main {
 
                 SudokuSolver ss = new BacktrackSolver(inputs[i]);
                 ss.solve();
+                writer.write(ss.printBoard() + "\n");
                 writer.write(ss.output);
     
                 SudokuSolver ss_ac3 = new BacktrackSolverAC3(inputs[i]);
@@ -102,7 +103,9 @@ public class Main {
 
                 SudokuSolver killer_bt = new BacktrackSolver(killer_puzzle[i]);
                 killer_bt.solve();
+                killer_writer.write(killer_bt.printBoard());
                 killer_writer.write(killer_bt.output);
+
 
                 SudokuSolver killer_ac3 = new BacktrackSolverAC3(killer_puzzle[i]);
                 killer_ac3.solve();
