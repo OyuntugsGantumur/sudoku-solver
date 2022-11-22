@@ -9,7 +9,7 @@ public class Main {
         //BASIC SUDOKU
         String[] inputs = new String[10];
         try {
-            FileWriter writer = new FileWriter("report_basic.txt");
+            FileWriter writer = new FileWriter("report_files/report_basic.txt");
             read_config_basic(inputs);
             
             for(int i = 0; i < inputs.length; i++) {
@@ -44,7 +44,7 @@ public class Main {
         read_overlapping_puzzle(puzzle);
         
         try {
-            FileWriter writer_overlap = new FileWriter("report_overlapping.txt");
+            FileWriter writer_overlap = new FileWriter("report_files/report_overlapping.txt");
             
             for(int i = 0; i < puzzle.length; i++) {
                 writer_overlap.write("\nPUZZLE " + (i+1) + " solution:  \n");
@@ -95,7 +95,7 @@ public class Main {
         read_killer_config(killer_puzzle);
 
         try {
-            FileWriter killer_writer = new FileWriter("report_killer.txt");
+            FileWriter killer_writer = new FileWriter("report_files/report_killer.txt");
 
             for(int i = 0; i < killer_puzzle.length; i++) {
                 killer_writer.write("\nPUZZLE " + (i + 1) + "\n" + puzzle_to_array(killer_puzzle[i].substring(0, 81)) + "\n");
@@ -128,7 +128,7 @@ public class Main {
         String puzzle = "";
 
         try {
-            File file = new File("config_basic.txt");
+            File file = new File("config_files/config_basic.txt");
             Scanner scnr = new Scanner(file);
 
             for(int i = 0; i < str.length; i ++) {
@@ -163,7 +163,7 @@ public class Main {
     public static void read_overlapping_puzzle(String[][] puzzle) {
 
         try {
-            File file = new File("config_overlapping.txt");
+            File file = new File("config_files/config_overlapping.txt");
             Scanner scnr = new Scanner(file);
 
             for(int num = 0; num < puzzle.length; num++) {
@@ -235,7 +235,7 @@ public class Main {
     public static void read_killer_config(String[] puzzle) {
 
         try {
-            File file = new File("config_killer.txt");
+            File file = new File("config_files/config_killer.txt");
             Scanner scnr = new Scanner(file);
 
             for(int j = 0; j < puzzle.length; j++) {
